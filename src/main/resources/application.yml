@@ -1,0 +1,6 @@
+
+logging.level:
+  org.springframework.security.oauth2: TRACE
+  com.example.demooauth: DEBUG
+
+keycloak.jwtSetUri: http://idc.mocomsys.com:19100/auth/realms/myrealm/protocol/openid-connect/certs
