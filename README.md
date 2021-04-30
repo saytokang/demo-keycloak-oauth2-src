@@ -36,3 +36,5 @@ public JwtDecoder jwtDecoder() {
 위 사항은 앞서 말한  JWT 토큰 validate 을 위해 필요한 public-key 값을 구하는 설정이다. 
 토큰 해독을 위해 Numbus 모듈을 사용한다. 
 
+## keycloak scope 설정
+[여기 참고](https://wstutorial.com/rest/spring-security-oauth2-keycloak.html)
